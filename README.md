@@ -20,6 +20,7 @@ State / Region		-ON
 
 Country		-Canada     
 
-[https://giftzy.ca/]([url](https://giftzy.ca/)https://giftzy.ca/)
+**[https://giftzy.ca/]([url](https://giftzy.ca/
+))**
 
-[https://www.instagram.com/giftzy.ca/]([url](https://www.instagram.com/giftzy.ca/)https://www.instagram.com/giftzy.ca/)
+[**https://www.instagram.com/giftzy.ca/**]([url](https://www.instagram.com/giftzy.ca/)https://www.instagram.com/giftzy.ca/)
